@@ -1,0 +1,226 @@
+[
+    {
+        "Year": 1990.0,
+        "Manufacturing": 21.19,
+        "Electricity, gas, steam and air conditioning supply": 27.09,
+        "Transport and storage": 10.93,
+        "Consumer expenditure": 25.98
+    },
+    {
+        "Year": 1991.0,
+        "Manufacturing": 21.12,
+        "Electricity, gas, steam and air conditioning supply": 25.91,
+        "Transport and storage": 10.77,
+        "Consumer expenditure": 27.15
+    },
+    {
+        "Year": 1992.0,
+        "Manufacturing": 20.88,
+        "Electricity, gas, steam and air conditioning supply": 25.08,
+        "Transport and storage": 11.16,
+        "Consumer expenditure": 27.4
+    },
+    {
+        "Year": 1993.0,
+        "Manufacturing": 20.77,
+        "Electricity, gas, steam and air conditioning supply": 23.92,
+        "Transport and storage": 11.43,
+        "Consumer expenditure": 28.23
+    },
+    {
+        "Year": 1994.0,
+        "Manufacturing": 21.05,
+        "Electricity, gas, steam and air conditioning supply": 24.06,
+        "Transport and storage": 11.62,
+        "Consumer expenditure": 27.47
+    },
+    {
+        "Year": 1995.0,
+        "Manufacturing": 20.86,
+        "Electricity, gas, steam and air conditioning supply": 24.5,
+        "Transport and storage": 12.11,
+        "Consumer expenditure": 26.64
+    },
+    {
+        "Year": 1996.0,
+        "Manufacturing": 20.16,
+        "Electricity, gas, steam and air conditioning supply": 23.7,
+        "Transport and storage": 12.33,
+        "Consumer expenditure": 28.03
+    },
+    {
+        "Year": 1997.0,
+        "Manufacturing": 20.25,
+        "Electricity, gas, steam and air conditioning supply": 23.09,
+        "Transport and storage": 13.87,
+        "Consumer expenditure": 27.09
+    },
+    {
+        "Year": 1998.0,
+        "Manufacturing": 19.29,
+        "Electricity, gas, steam and air conditioning supply": 23.53,
+        "Transport and storage": 14.41,
+        "Consumer expenditure": 26.99
+    },
+    {
+        "Year": 1999.0,
+        "Manufacturing": 19.68,
+        "Electricity, gas, steam and air conditioning supply": 23.55,
+        "Transport and storage": 14.17,
+        "Consumer expenditure": 27.02
+    },
+    {
+        "Year": 2000.0,
+        "Manufacturing": 19.19,
+        "Electricity, gas, steam and air conditioning supply": 24.68,
+        "Transport and storage": 14.28,
+        "Consumer expenditure": 26.68
+    },
+    {
+        "Year": 2001.0,
+        "Manufacturing": 18.07,
+        "Electricity, gas, steam and air conditioning supply": 25.39,
+        "Transport and storage": 14.61,
+        "Consumer expenditure": 26.89
+    },
+    {
+        "Year": 2002.0,
+        "Manufacturing": 17.53,
+        "Electricity, gas, steam and air conditioning supply": 25.72,
+        "Transport and storage": 14.54,
+        "Consumer expenditure": 27.63
+    },
+    {
+        "Year": 2003.0,
+        "Manufacturing": 17.74,
+        "Electricity, gas, steam and air conditioning supply": 26.3,
+        "Transport and storage": 14.31,
+        "Consumer expenditure": 27.37
+    },
+    {
+        "Year": 2004.0,
+        "Manufacturing": 17.28,
+        "Electricity, gas, steam and air conditioning supply": 26.34,
+        "Transport and storage": 14.49,
+        "Consumer expenditure": 27.71
+    },
+    {
+        "Year": 2005.0,
+        "Manufacturing": 17.49,
+        "Electricity, gas, steam and air conditioning supply": 26.52,
+        "Transport and storage": 14.83,
+        "Consumer expenditure": 27.05
+    },
+    {
+        "Year": 2006.0,
+        "Manufacturing": 17.26,
+        "Electricity, gas, steam and air conditioning supply": 27.91,
+        "Transport and storage": 13.82,
+        "Consumer expenditure": 27.14
+    },
+    {
+        "Year": 2007.0,
+        "Manufacturing": 16.92,
+        "Electricity, gas, steam and air conditioning supply": 28.18,
+        "Transport and storage": 14.5,
+        "Consumer expenditure": 26.68
+    },
+    {
+        "Year": 2008.0,
+        "Manufacturing": 16.14,
+        "Electricity, gas, steam and air conditioning supply": 28.4,
+        "Transport and storage": 14.01,
+        "Consumer expenditure": 27.1
+    },
+    {
+        "Year": 2009.0,
+        "Manufacturing": 15.32,
+        "Electricity, gas, steam and air conditioning supply": 27.52,
+        "Transport and storage": 14.06,
+        "Consumer expenditure": 28.58
+    },
+    {
+        "Year": 2010.0,
+        "Manufacturing": 15.09,
+        "Electricity, gas, steam and air conditioning supply": 27.75,
+        "Transport and storage": 13.63,
+        "Consumer expenditure": 29.36
+    },
+    {
+        "Year": 2011.0,
+        "Manufacturing": 15.86,
+        "Electricity, gas, steam and air conditioning supply": 27.01,
+        "Transport and storage": 15.43,
+        "Consumer expenditure": 27.64
+    },
+    {
+        "Year": 2012.0,
+        "Manufacturing": 15.01,
+        "Electricity, gas, steam and air conditioning supply": 26.92,
+        "Transport and storage": 14.69,
+        "Consumer expenditure": 29.01
+    },
+    {
+        "Year": 2013.0,
+        "Manufacturing": 15.48,
+        "Electricity, gas, steam and air conditioning supply": 25.85,
+        "Transport and storage": 14.45,
+        "Consumer expenditure": 29.93
+    },
+    {
+        "Year": 2014.0,
+        "Manufacturing": 15.94,
+        "Electricity, gas, steam and air conditioning supply": 24.17,
+        "Transport and storage": 16.4,
+        "Consumer expenditure": 28.88
+    },
+    {
+        "Year": 2015.0,
+        "Manufacturing": 15.64,
+        "Electricity, gas, steam and air conditioning supply": 21.15,
+        "Transport and storage": 17.11,
+        "Consumer expenditure": 30.4
+    },
+    {
+        "Year": 2016.0,
+        "Manufacturing": 15.17,
+        "Electricity, gas, steam and air conditioning supply": 19.44,
+        "Transport and storage": 17.84,
+        "Consumer expenditure": 31.36
+    },
+    {
+        "Year": 2017.0,
+        "Manufacturing": 15.71,
+        "Electricity, gas, steam and air conditioning supply": 18.11,
+        "Transport and storage": 17.31,
+        "Consumer expenditure": 32.1
+    },
+    {
+        "Year": 2018.0,
+        "Manufacturing": 15.54,
+        "Electricity, gas, steam and air conditioning supply": 16.72,
+        "Transport and storage": 18.33,
+        "Consumer expenditure": 32.82
+    },
+    {
+        "Year": 2019.0,
+        "Manufacturing": 15.99,
+        "Electricity, gas, steam and air conditioning supply": 15.67,
+        "Transport and storage": 18.55,
+        "Consumer expenditure": 33.01
+    },
+    {
+        "Year": 2020.0,
+        "Manufacturing": 17.65,
+        "Electricity, gas, steam and air conditioning supply": 15.29,
+        "Transport and storage": 15.14,
+        "Consumer expenditure": 34.27
+    },
+    {
+        "Year": 2021.0,
+        "Manufacturing": 16.93,
+        "Electricity, gas, steam and air conditioning supply": 16.15,
+        "Transport and storage": 13.31,
+        "Consumer expenditure": 35.48
+    }
+]

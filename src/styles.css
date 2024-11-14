@@ -1,0 +1,137 @@
+body {
+  font-family: Arial, sans-serif; /* specify the main font style of the page */
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+
+.title {
+  font-size: 24px; /* make the font size of the article title bigger */
+  padding: 20px;
+  max-width: 900px; /* Have the title take up up to 900 px and center it */
+  margin: 0 auto;
+  color: #ffffff;
+}
+
+.background-colour {
+  background-color: #3c78a2;
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 20px;
+  }
+}
+
+h1 {
+  margin: 20px 0;
+}
+
+* {
+  box-sizing: border-box
+}
+
+nav { /* to have the navigation in the middle of the page, specify that it should take up up to 700px */
+  padding: 20px;
+  max-width: 700px;
+  margin: 0 auto; /* and then declare the margins (top and bottom) to be 0 and "auto" centres the element */
+  color: #2b2929;
+
+}
+
+nav h2 {
+  margin-bottom: 20px;
+}
+
+nav ol {
+  color: #515050;
+  display: flex; /* use flexbox for the table of contents */
+  flex-wrap: wrap; /* wrap into multiple lines */
+  padding: 0 30px;
+}
+
+nav li {
+  flex: 1 0 50%; /* make it two lines and split the elements evenly */
+  padding: 5px; /* add padding to the list items */
+  box-sizing: border-box; /* padding should not affect item width */
+}
+
+@media (max-width: 768px) { /* media query to make this element responsive to resizing of the screen */
+  nav ol {
+    flex-direction: column; /* from the 2 columns, if screen size smaller than 768px, make it only one column */
+  }
+}
+
+nav li {
+  margin-bottom: 5px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #206095; /* added for aesthetics and took colour of ONS table of contents as basis */
+}
+
+nav a:hover {
+  text-decoration: underline; /* like ONS, made the hover feature a line under the link */
+}
+
+main { /* same as for nav, to have the contenst of the article centred, specify the following as previously */
+  padding: 20px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+article {
+  margin-bottom: 20px;
+  line-height: 32px;
+}
+
+header {
+  margin-bottom: 10px;
+  color: #2b2929;
+}
+
+article p {
+  color: #515050; /* chose a colour that is a little softer but still dark enough to be seen (even with lowered lightness) */
+  margin-bottom: 10px;
+}
+
+article h3 {
+  color: #515050;
+}
+
+article h4 {
+  color: #515050;
+}
+
+article li {
+  color: #515050;
+}
+
+.legend-container { /* linked to container in html for the manually created legend */
+  font-family: Arial, sans-serif;
+  display: grid; /* used grid to create the legend */
+  grid-template-columns: auto auto; /* have two columns */
+  grid-column-gap: 4px; /* gap between the columns */
+}
+
+.legend-item {
+  display: flex; /* combined grid with flex for the items in the legend to be in line */
+  align-items: center;
+  margin-bottom: 1px;
+  font-size: 12px;
+}
+
+.legend-color {
+  width: 60px; /* have the lines of colour be the same as the lines in the plot */
+  height: 4px;
+  margin-right: 5px;
+}
+
+
+@media (max-width: 768px) { /* as previously, add a media query for responsiveness when screen size decreases */
+  .legend-container {
+    grid-template-columns: auto; /* again, have the two columns turn into one */
+  }
+}

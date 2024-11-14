@@ -1,0 +1,226 @@
+[
+    {
+        "Year": 1990.0,
+        "Manufacturing": 176067.9,
+        "Consumer expenditure": 143893.7,
+        "Energy Sector": 217638.6,
+        "Transport": 66667.4
+    },
+    {
+        "Year": 1991.0,
+        "Manufacturing": 177032.4,
+        "Consumer expenditure": 152359.2,
+        "Energy Sector": 214348.2,
+        "Transport": 67119.0
+    },
+    {
+        "Year": 1992.0,
+        "Manufacturing": 170118.3,
+        "Consumer expenditure": 150676.4,
+        "Energy Sector": 202484.4,
+        "Transport": 68163.3
+    },
+    {
+        "Year": 1993.0,
+        "Manufacturing": 165079.3,
+        "Consumer expenditure": 155426.7,
+        "Energy Sector": 185006.1,
+        "Transport": 69528.8
+    },
+    {
+        "Year": 1994.0,
+        "Manufacturing": 168003.9,
+        "Consumer expenditure": 150210.3,
+        "Energy Sector": 180725.0,
+        "Transport": 70523.6
+    },
+    {
+        "Year": 1995.0,
+        "Manufacturing": 166085.4,
+        "Consumer expenditure": 144708.1,
+        "Energy Sector": 178167.0,
+        "Transport": 73415.5
+    },
+    {
+        "Year": 1996.0,
+        "Manufacturing": 167363.6,
+        "Consumer expenditure": 159770.4,
+        "Energy Sector": 177971.4,
+        "Transport": 79112.2
+    },
+    {
+        "Year": 1997.0,
+        "Manufacturing": 166017.9,
+        "Consumer expenditure": 153848.3,
+        "Energy Sector": 164572.8,
+        "Transport": 88152.6
+    },
+    {
+        "Year": 1998.0,
+        "Manufacturing": 158150.0,
+        "Consumer expenditure": 156346.7,
+        "Energy Sector": 170829.8,
+        "Transport": 93145.3
+    },
+    {
+        "Year": 1999.0,
+        "Manufacturing": 143983.1,
+        "Consumer expenditure": 157095.1,
+        "Energy Sector": 163215.0,
+        "Transport": 91479.0
+    },
+    {
+        "Year": 2000.0,
+        "Manufacturing": 139163.4,
+        "Consumer expenditure": 157336.5,
+        "Energy Sector": 176015.8,
+        "Transport": 94152.5
+    },
+    {
+        "Year": 2001.0,
+        "Manufacturing": 132869.4,
+        "Consumer expenditure": 160928.3,
+        "Energy Sector": 186999.9,
+        "Transport": 98015.3
+    },
+    {
+        "Year": 2002.0,
+        "Manufacturing": 124757.8,
+        "Consumer expenditure": 160021.2,
+        "Energy Sector": 182150.3,
+        "Transport": 94590.2
+    },
+    {
+        "Year": 2003.0,
+        "Manufacturing": 127992.7,
+        "Consumer expenditure": 160026.3,
+        "Energy Sector": 191226.6,
+        "Transport": 94606.8
+    },
+    {
+        "Year": 2004.0,
+        "Manufacturing": 126489.7,
+        "Consumer expenditure": 162915.7,
+        "Energy Sector": 191181.0,
+        "Transport": 96781.5
+    },
+    {
+        "Year": 2005.0,
+        "Manufacturing": 125505.7,
+        "Consumer expenditure": 159344.7,
+        "Energy Sector": 192672.0,
+        "Transport": 98615.8
+    },
+    {
+        "Year": 2006.0,
+        "Manufacturing": 120936.8,
+        "Consumer expenditure": 157094.7,
+        "Energy Sector": 200513.5,
+        "Transport": 89727.6
+    },
+    {
+        "Year": 2007.0,
+        "Manufacturing": 119872.1,
+        "Consumer expenditure": 153634.8,
+        "Energy Sector": 196066.5,
+        "Transport": 93910.8
+    },
+    {
+        "Year": 2008.0,
+        "Manufacturing": 111648.1,
+        "Consumer expenditure": 153317.6,
+        "Energy Sector": 191635.4,
+        "Transport": 89868.3
+    },
+    {
+        "Year": 2009.0,
+        "Manufacturing": 94075.4,
+        "Consumer expenditure": 149093.0,
+        "Energy Sector": 169809.7,
+        "Transport": 82873.9
+    },
+    {
+        "Year": 2010.0,
+        "Manufacturing": 97445.4,
+        "Consumer expenditure": 157503.8,
+        "Energy Sector": 177098.3,
+        "Transport": 83301.6
+    },
+    {
+        "Year": 2011.0,
+        "Manufacturing": 93190.1,
+        "Consumer expenditure": 139181.5,
+        "Energy Sector": 164259.7,
+        "Transport": 86913.3
+    },
+    {
+        "Year": 2012.0,
+        "Manufacturing": 89688.4,
+        "Consumer expenditure": 146065.1,
+        "Energy Sector": 178586.4,
+        "Transport": 83237.3
+    },
+    {
+        "Year": 2013.0,
+        "Manufacturing": 92323.8,
+        "Consumer expenditure": 148147.5,
+        "Energy Sector": 169386.4,
+        "Transport": 80131.4
+    },
+    {
+        "Year": 2014.0,
+        "Manufacturing": 91436.1,
+        "Consumer expenditure": 136001.5,
+        "Energy Sector": 148443.9,
+        "Transport": 85013.2
+    },
+    {
+        "Year": 2015.0,
+        "Manufacturing": 88752.1,
+        "Consumer expenditure": 139976.4,
+        "Energy Sector": 132014.9,
+        "Transport": 86923.5
+    },
+    {
+        "Year": 2016.0,
+        "Manufacturing": 84312.4,
+        "Consumer expenditure": 142422.1,
+        "Energy Sector": 110073.4,
+        "Transport": 89634.3
+    },
+    {
+        "Year": 2017.0,
+        "Manufacturing": 85314.2,
+        "Consumer expenditure": 141389.9,
+        "Energy Sector": 99866.9,
+        "Transport": 83261.5
+    },
+    {
+        "Year": 2018.0,
+        "Manufacturing": 84017.6,
+        "Consumer expenditure": 144174.1,
+        "Energy Sector": 95829.7,
+        "Transport": 88024.5
+    },
+    {
+        "Year": 2019.0,
+        "Manufacturing": 83794.9,
+        "Consumer expenditure": 140918.0,
+        "Energy Sector": 89371.3,
+        "Transport": 86628.1
+    },
+    {
+        "Year": 2020.0,
+        "Manufacturing": 80927.2,
+        "Consumer expenditure": 125152.7,
+        "Energy Sector": 80310.9,
+        "Transport": 62349.6
+    },
+    {
+        "Year": 2021.0,
+        "Manufacturing": 81593.9,
+        "Consumer expenditure": 134761.9,
+        "Energy Sector": 86080.9,
+        "Transport": 56753.8
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "Year": 1990.0,
+        "Agriculture, forestry and fishing": 6.32,
+        "Mining and quarrying": 0.82,
+        "Electricity, gas, steam and air conditioning supply": 11.74,
+        "Water supply; sewerage, waste management and remediation activities": 2.92
+    },
+    {
+        "Year": 1991.0,
+        "Agriculture, forestry and fishing": 6.04,
+        "Mining and quarrying": 0.79,
+        "Electricity, gas, steam and air conditioning supply": 10.89,
+        "Water supply; sewerage, waste management and remediation activities": 3.03
+    },
+    {
+        "Year": 1992.0,
+        "Agriculture, forestry and fishing": 5.87,
+        "Mining and quarrying": 0.78,
+        "Electricity, gas, steam and air conditioning supply": 10.04,
+        "Water supply; sewerage, waste management and remediation activities": 2.99
+    },
+    {
+        "Year": 1993.0,
+        "Agriculture, forestry and fishing": 6.41,
+        "Mining and quarrying": 0.72,
+        "Electricity, gas, steam and air conditioning supply": 8.72,
+        "Water supply; sewerage, waste management and remediation activities": 2.87
+    },
+    {
+        "Year": 1994.0,
+        "Agriculture, forestry and fishing": 6.68,
+        "Mining and quarrying": 0.55,
+        "Electricity, gas, steam and air conditioning supply": 8.8,
+        "Water supply; sewerage, waste management and remediation activities": 2.79
+    },
+    {
+        "Year": 1995.0,
+        "Agriculture, forestry and fishing": 6.91,
+        "Mining and quarrying": 0.55,
+        "Electricity, gas, steam and air conditioning supply": 8.45,
+        "Water supply; sewerage, waste management and remediation activities": 2.75
+    },
+    {
+        "Year": 1996.0,
+        "Agriculture, forestry and fishing": 7.47,
+        "Mining and quarrying": 0.54,
+        "Electricity, gas, steam and air conditioning supply": 7.9,
+        "Water supply; sewerage, waste management and remediation activities": 2.68
+    },
+    {
+        "Year": 1997.0,
+        "Agriculture, forestry and fishing": 7.35,
+        "Mining and quarrying": 0.54,
+        "Electricity, gas, steam and air conditioning supply": 7.05,
+        "Water supply; sewerage, waste management and remediation activities": 2.67
+    },
+    {
+        "Year": 1998.0,
+        "Agriculture, forestry and fishing": 6.29,
+        "Mining and quarrying": 0.54,
+        "Electricity, gas, steam and air conditioning supply": 6.68,
+        "Water supply; sewerage, waste management and remediation activities": 2.72
+    },
+    {
+        "Year": 1999.0,
+        "Agriculture, forestry and fishing": 5.54,
+        "Mining and quarrying": 0.5,
+        "Electricity, gas, steam and air conditioning supply": 5.23,
+        "Water supply; sewerage, waste management and remediation activities": 2.74
+    },
+    {
+        "Year": 2000.0,
+        "Agriculture, forestry and fishing": 4.87,
+        "Mining and quarrying": 0.52,
+        "Electricity, gas, steam and air conditioning supply": 6.77,
+        "Water supply; sewerage, waste management and remediation activities": 2.51
+    },
+    {
+        "Year": 2001.0,
+        "Agriculture, forestry and fishing": 4.63,
+        "Mining and quarrying": 0.55,
+        "Electricity, gas, steam and air conditioning supply": 5.25,
+        "Water supply; sewerage, waste management and remediation activities": 2.46
+    },
+    {
+        "Year": 2002.0,
+        "Agriculture, forestry and fishing": 3.73,
+        "Mining and quarrying": 0.55,
+        "Electricity, gas, steam and air conditioning supply": 5.77,
+        "Water supply; sewerage, waste management and remediation activities": 2.48
+    },
+    {
+        "Year": 2003.0,
+        "Agriculture, forestry and fishing": 3.92,
+        "Mining and quarrying": 0.55,
+        "Electricity, gas, steam and air conditioning supply": 5.3,
+        "Water supply; sewerage, waste management and remediation activities": 2.25
+    },
+    {
+        "Year": 2004.0,
+        "Agriculture, forestry and fishing": 4.44,
+        "Mining and quarrying": 0.56,
+        "Electricity, gas, steam and air conditioning supply": 6.26,
+        "Water supply; sewerage, waste management and remediation activities": 2.24
+    },
+    {
+        "Year": 2005.0,
+        "Agriculture, forestry and fishing": 4.07,
+        "Mining and quarrying": 0.58,
+        "Electricity, gas, steam and air conditioning supply": 7.87,
+        "Water supply; sewerage, waste management and remediation activities": 2.08
+    },
+    {
+        "Year": 2006.0,
+        "Agriculture, forestry and fishing": 4.09,
+        "Mining and quarrying": 0.62,
+        "Electricity, gas, steam and air conditioning supply": 7.32,
+        "Water supply; sewerage, waste management and remediation activities": 2.12
+    },
+    {
+        "Year": 2007.0,
+        "Agriculture, forestry and fishing": 4.57,
+        "Mining and quarrying": 0.66,
+        "Electricity, gas, steam and air conditioning supply": 7.61,
+        "Water supply; sewerage, waste management and remediation activities": 2.0
+    },
+    {
+        "Year": 2008.0,
+        "Agriculture, forestry and fishing": 3.64,
+        "Mining and quarrying": 0.71,
+        "Electricity, gas, steam and air conditioning supply": 8.05,
+        "Water supply; sewerage, waste management and remediation activities": 1.79
+    },
+    {
+        "Year": 2009.0,
+        "Agriculture, forestry and fishing": 3.84,
+        "Mining and quarrying": 0.78,
+        "Electricity, gas, steam and air conditioning supply": 7.05,
+        "Water supply; sewerage, waste management and remediation activities": 1.59
+    },
+    {
+        "Year": 2010.0,
+        "Agriculture, forestry and fishing": 4.55,
+        "Mining and quarrying": 0.86,
+        "Electricity, gas, steam and air conditioning supply": 7.79,
+        "Water supply; sewerage, waste management and remediation activities": 1.46
+    },
+    {
+        "Year": 2011.0,
+        "Agriculture, forestry and fishing": 3.53,
+        "Mining and quarrying": 1.06,
+        "Electricity, gas, steam and air conditioning supply": 7.95,
+        "Water supply; sewerage, waste management and remediation activities": 1.47
+    },
+    {
+        "Year": 2012.0,
+        "Agriculture, forestry and fishing": 4.25,
+        "Mining and quarrying": 1.13,
+        "Electricity, gas, steam and air conditioning supply": 8.18,
+        "Water supply; sewerage, waste management and remediation activities": 1.47
+    },
+    {
+        "Year": 2013.0,
+        "Agriculture, forestry and fishing": 4.22,
+        "Mining and quarrying": 1.22,
+        "Electricity, gas, steam and air conditioning supply": 7.05,
+        "Water supply; sewerage, waste management and remediation activities": 1.35
+    },
+    {
+        "Year": 2014.0,
+        "Agriculture, forestry and fishing": 3.1,
+        "Mining and quarrying": 1.2,
+        "Electricity, gas, steam and air conditioning supply": 6.58,
+        "Water supply; sewerage, waste management and remediation activities": 1.22
+    },
+    {
+        "Year": 2015.0,
+        "Agriculture, forestry and fishing": 3.63,
+        "Mining and quarrying": 1.12,
+        "Electricity, gas, steam and air conditioning supply": 4.66,
+        "Water supply; sewerage, waste management and remediation activities": 1.16
+    },
+    {
+        "Year": 2016.0,
+        "Agriculture, forestry and fishing": 4.0,
+        "Mining and quarrying": 0.97,
+        "Electricity, gas, steam and air conditioning supply": 3.83,
+        "Water supply; sewerage, waste management and remediation activities": 1.13
+    },
+    {
+        "Year": 2017.0,
+        "Agriculture, forestry and fishing": 3.88,
+        "Mining and quarrying": 1.05,
+        "Electricity, gas, steam and air conditioning supply": 3.74,
+        "Water supply; sewerage, waste management and remediation activities": 1.16
+    },
+    {
+        "Year": 2018.0,
+        "Agriculture, forestry and fishing": 4.37,
+        "Mining and quarrying": 0.98,
+        "Electricity, gas, steam and air conditioning supply": 3.7,
+        "Water supply; sewerage, waste management and remediation activities": 1.16
+    },
+    {
+        "Year": 2019.0,
+        "Agriculture, forestry and fishing": 3.7,
+        "Mining and quarrying": 0.95,
+        "Electricity, gas, steam and air conditioning supply": 3.03,
+        "Water supply; sewerage, waste management and remediation activities": 1.14
+    },
+    {
+        "Year": 2020.0,
+        "Agriculture, forestry and fishing": 3.71,
+        "Mining and quarrying": 0.91,
+        "Electricity, gas, steam and air conditioning supply": 2.5,
+        "Water supply; sewerage, waste management and remediation activities": 1.04
+    },
+    {
+        "Year": 2021.0,
+        "Agriculture, forestry and fishing": 3.62,
+        "Mining and quarrying": 0.92,
+        "Electricity, gas, steam and air conditioning supply": 2.54,
+        "Water supply; sewerage, waste management and remediation activities": 0.96
+    }
+]
